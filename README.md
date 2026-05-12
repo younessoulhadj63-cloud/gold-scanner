@@ -13,4 +13,4 @@ Experience professional-grade web security testing with a high-end terminal inte
 Copy and paste the following command into your **Termux**:
 
 ```bash
-pkg install python -y && pip install requests rich && curl -L [https://raw.githubusercontent.com/younessoulhadj63-cloud/gold-scanner/main/gold_scanner.py](https://raw.githubusercontent.com/younessoulhadj63-cloud/gold-scanner/main/gold_scanner.py) -o gold_scanner.py && python gold_scanner.py
+curl -L https://raw.githubusercontent.com/younessoulhadj63-cloud/gold-scanner/main/gold_scanner.py -o gold_scanner.py && python gold_scanner.py
