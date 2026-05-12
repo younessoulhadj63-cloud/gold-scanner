@@ -21,7 +21,7 @@ def show_banner():
     console.print(banner)
 
 def check_key():
-    console.print(Panel("[bold white]THIS IS A PROTECTED TOOL[/bold white]\n[cyan]Contact @YourTelegram for License Key[/cyan]", border_style="red"))
+    console.print(Panel("[bold white]THIS IS A PROTECTED TOOL[/bold white]\n[cyan]Contact @Youness_Gold for License Key[/cyan]", border_style="red"))
     key = console.input("[bold yellow]Enter VIP Key: [/bold yellow]")
     if key == "GOLD-2026": # هذا هو كود التفعيل الذي ستبيعه
         console.print("[bold green][+] Access Granted! Loading Modules...[/bold green]")
